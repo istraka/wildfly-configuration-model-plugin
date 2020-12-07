@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.istraka.wildflyconfigurationmodelplugin
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
